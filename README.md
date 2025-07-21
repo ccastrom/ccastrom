@@ -6,11 +6,9 @@
 
 ###
 
-<h4 align="left">🔴 Software developer from Chile</h4>
+<h3 align="left">🔴 Software developer from Chile</h3>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">💻 Tech Stack</h3>
 

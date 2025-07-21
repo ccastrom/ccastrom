@@ -2,11 +2,17 @@
 
 ###
 
-<h2 align="center">Software developer from Chile</h2>
+<p align="center">The cell is the basic unit of life; data is the basic unit of any business solution</p>
 
 ###
 
-<h3 align="left">Tech 💻</h3>
+<h4 align="left">🔴 Software developer from Chile</h4>
+
+###
+
+<br clear="both">
+
+<h3 align="left">💻 Tech Stack</h3>
 
 ###
 
@@ -17,6 +23,10 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
+
+###
+
+<h4 align="left">📊 GitHub Stats</h4>
 
 ###
 

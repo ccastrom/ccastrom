@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">The cell is the basic unit of life; data is the basic unit of any business solution</h3>
+<h3 align="center"></h3>
 
 ###
 
